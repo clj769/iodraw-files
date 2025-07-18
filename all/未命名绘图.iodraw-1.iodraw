@@ -28,6 +28,14 @@
         <mxCell id="1DWMgwEW8XEfunY1j5yF-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1DWMgwEW8XEfunY1j5yF-6" target="1DWMgwEW8XEfunY1j5yF-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1DWMgwEW8XEfunY1j5yF-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1DWMgwEW8XEfunY1j5yF-6" target="1DWMgwEW8XEfunY1j5yF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1DWMgwEW8XEfunY1j5yF-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="1DWMgwEW8XEfunY1j5yF-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="441.1203918457031" y="556.1506271362305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1DWMgwEW8XEfunY1j5yF-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;战场态势环境&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="146" y="555" width="269" height="33" as="geometry" />
         </mxCell>
